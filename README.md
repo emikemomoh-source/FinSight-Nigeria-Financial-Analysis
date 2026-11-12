@@ -5,3 +5,7 @@
 ## Project Topic: FinSight Nigeria - Financial Performance and Cash Flow Analysis
 
 My first Power BI financial analytics project, developed while learning at the Incubator Hub, investigating revenue growth, profitability and cash flow challenges in a Nigerian FMCG distribution company.
+
+### Project Overview
+Finsight Nigeria is a Power BI financial analytics project developed as part of my practical learning experience at the Incubator Hub. 
+The
