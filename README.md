@@ -40,6 +40,7 @@ The analysis involved:
 4. Examining financial performance across the company's branches.
 5. Identifying unusual patterns and changes in financial performance.
 
+
 ### Data Analysis
 Microsoft Power BI was used to analyse the prepared dataset ab=nd develop interactive visualisations.
 
