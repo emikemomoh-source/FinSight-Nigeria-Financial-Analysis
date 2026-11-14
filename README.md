@@ -18,3 +18,14 @@ The project examines the financial performance of a Nigerian FMCG distribution c
 - Power Query: Used for data cleaning and transformation.
 - Microsoft Power BI: Used for data modelling, analysis and dashboard development. [Download Here](https://www.microsoft.com)
 - DAX (Data Analysis Expression): Used to create measures and perform financial calculations.
+
+### Data Cleaning and Preparation
+The financial dataset was imported from Microsoft Excel into Power BI Desktop. 
+Power Query was used to prepare the data for analysis.
+
+The preparation process included:
+- Examining the dataset and its structure.
+- Checking and correcting data types.
+- identifying and handling missing or inconsistent values where necessary.
+- Ensuring financial amounts were in the appropriate numeric format.
+- Preparing the tables for data modelling and analysis.
