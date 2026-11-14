@@ -16,5 +16,5 @@ The project examines the financial performance of a Nigerian FMCG distribution c
 ### Tools and Technologies Used
 - Microsoft Exel: For recieving and initially examine the financial dataset.
 - Power Query: Used for data cleaning and transformation.
-- Microsoft Power BI: Used for data modelling, analysis and dashboard development.
+- Microsoft Power BI: Used for data modelling, analysis and dashboard development. [Download Here](https://www.microsoft.com)
 - DAX (Data Analysis Expression): Used to create measures and perform financial calculations.
