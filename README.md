@@ -52,3 +52,6 @@ The analysis focused on:
 5. Time Intelligence: Comparing monthly and yearly financial performance.
 6. Transaction Movement Analysis: Examining financial transactions and payment methods.
 7. Cash Flow Analysis: Analysing cash inflows, outflows and net cash flow.
+
+### Visualization
+ 
