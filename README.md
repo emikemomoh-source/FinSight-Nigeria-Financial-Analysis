@@ -54,4 +54,9 @@ The analysis focused on:
 7. Cash Flow Analysis: Analysing cash inflows, outflows and net cash flow.
 
 ### Visualization
+#### EXECUTIVE DASHBOARD
+
+<img width="1009" height="547" alt="MONTHLY REVENUE TREND VS OPERATING EXPENSES" src="https://github.com/user-attachments/assets/e5d73b56-6d31-47fc-b8a1-069f16a3b558" />
+
+
  
