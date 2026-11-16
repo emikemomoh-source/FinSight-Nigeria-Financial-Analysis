@@ -58,5 +58,21 @@ The analysis focused on:
 
 <img width="1009" height="547" alt="MONTHLY REVENUE TREND VS OPERATING EXPENSES" src="https://github.com/user-attachments/assets/e5d73b56-6d31-47fc-b8a1-069f16a3b558" />
 
+#### COST OF SALES ANALYSIS
+
+<img width="992" height="554" alt="COST OF SALES" src="https://github.com/user-attachments/assets/65844c1c-6474-4152-9bd6-45c38cd4ffa5" />
+
+#### TIME INTELLIGENCE ANALYSIS
+
+<img width="982" height="505" alt="TIME INTELLIGENCE" src="https://github.com/user-attachments/assets/d29cfc6f-a922-4567-8bbf-73c3dd1635c3" />
+
+#### TRANSACTION MOVEMENT ANALYSIS
+
+<img width="1028" height="545" alt="TRANSACTION MOVEMENT ANALYSIS" src="https://github.com/user-attachments/assets/7f4b82b6-977c-44c0-bb6f-2a353ff14c3d" />
+
+
+
+
+
 
  
